@@ -1,0 +1,47 @@
+.btn-box {
+    margin-right: 30px
+}
+#vote-box {
+    margin-top: 20px;
+}
+
+
+.navbar-default .btn-light {
+    padding: 0 20px;
+    margin-left: 15px;
+}
+
+.btn {
+    border: 0 !important;
+}
+
+.nav-pills,
+.effect-1:after,
+.nav-pills > li > a,
+.global-radius,
+.btn-brd {
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+.btn-light {
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #333;
+    background-color: transparent;
+}
+
+.btn-dark {
+    padding: 13px 40px;
+    font-size: 18px;
+    border: 1px solid #ececec !important;
+    color: #333;
+    background-color: transparent;
+}
+
+.btn-light:hover,
+.btn-light:focus {
+    border-color: rgba(255, 255, 255, 0.6);
+    color: rgba(100, 255, 255, 0.6);
+}
